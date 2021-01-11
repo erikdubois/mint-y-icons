@@ -29,6 +29,7 @@ COLORS["sand"] = "c4a660"
 COLORS["teal"] = "59c3ad"
 COLORS["yellow"] = "e7bc0d"
 COLORS["arc"] = "6ba4e7"
+COLORS["spring-rain"] = "ad93ba"
 
 GREEN_COLOR = "8bb158"
 

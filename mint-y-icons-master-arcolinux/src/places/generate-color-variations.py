@@ -30,6 +30,8 @@ COLORS["teal"] = "59c3ad"
 COLORS["yellow"] = "e7bc0d"
 COLORS["arc"] = "6ba4e7"
 COLORS["spring-rain"] = "ad93ba"
+COLORS["faux-royal-red"] = "931636"
+
 
 GREEN_COLOR = "8bb158"
 
